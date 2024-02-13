@@ -1,0 +1,11 @@
+
+import = [
+  "~/.config/alacritty/fonts/fira-mono.toml",
+  "~/.config/alacritty/colors/chalkdark.toml",
+]
+
+[env]
+TERM = "xterm-256color"
+
+[window]
+decorations = "None"
